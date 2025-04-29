@@ -3,7 +3,7 @@ import java.awt.Color;
 /**
  * An image filter to set to the blue channel color from an image.
  * 
- * @author Michael Kölling and David J. Barnes.
+ * @author Brandon Magistrado
  * @version 1.0
  */
 public class blueChannel extends Filter
